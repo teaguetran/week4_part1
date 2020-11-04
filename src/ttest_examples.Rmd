@@ -1,0 +1,11 @@
+---
+title: "Week 4 part 1 - CI & t-tests"
+author: "Teague Tran"
+date: "11/4/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
